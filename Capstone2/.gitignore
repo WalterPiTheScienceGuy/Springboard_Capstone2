@@ -1,0 +1,58 @@
+./data/raw/S10/S10.pkl
+./data/raw/S10/S10_respiban.txt
+./data/raw/S11/S11.pkl
+./data/raw/S11/S11_respiban.txt
+./data/raw/S13/S13.pkl
+./data/raw/S13/S13_respiban.txt
+./data/raw/S14/S14.pkl
+./data/raw/S14/S14_respiban.txt
+./data/raw/S15/S15.pkl
+./data/raw/S15/S15_respiban.txt
+./data/raw/S16/S16.pkl
+./data/raw/S16/S16_respiban.txt
+./data/raw/S17/S17.pkl
+./data/raw/S17/S17_respiban.txt
+./data/raw/S2/S2.pkl
+./data/raw/S2/S2_respiban.txt
+./data/raw/S3/S3.pkl
+./data/raw/S3/S3_respiban.txt
+./data/raw/S4/S4.pkl
+./data/raw/S4/S4_respiban.txt
+./data/raw/S5/S5.pkl
+./data/raw/S5/S5_respiban.txt
+./data/raw/S6/S6.pkl
+./data/raw/S6/S6_respiban.txt
+./data/raw/S7/S7.pkl
+./data/raw/S7/S7_respiban.txt
+./data/raw/S8/S8.pkl
+./data/raw/S8/S8_respiban.txt
+./data/raw/S9/S9.pkl
+./data/raw/S9/S9_respiban.txt
+# Database
+*.db
+*.rdb
+
+# Pycharm
+.idea
+
+# VS Code
+.vscode/
+
+# Spyder
+.spyproject/
+
+# Jupyter NB Checkpoints
+.ipynb_checkpoints/
+
+# exclude data from source control by default
+/data/
+
+# Mac OS-specific storage files
+.DS_Store
+
+# vim
+*.swp
+*.swo
+
+# Mypy cache
+.mypy_cache/
