@@ -4,6 +4,14 @@ The publicly available Wearables Stress and Affect Detection (WESAD) dataset pro
 
 ![](image1_readme.png)
 
+Used principal component analysis (PCA) to extract putative sympathetic nervous system activity (2nd component in the below figures).
+
+![](image5_readme.png)
+
+![](image6_readme.png)
+
+Comparing this sympathetic nervous system activity to subjective arousal reveals a complex effect of recent meditation and/or amusement on the interaction of phsyiological arousal with subjective cognitive arousal. 
+
 ![](image4_readme.png)
 
 ![](image3_readme.png)
